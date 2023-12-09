@@ -1,1 +1,5 @@
 # Tyre-Clicker
+
+# THE FIRST CLICKER GAME IN GORILLA TAG
+
+A gorilla tag CLICKER GUI
